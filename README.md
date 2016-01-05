@@ -1,2 +1,3 @@
-# caddie.github.io
-GitHub Pages
+# Caddie.io
+
+## Show Up, Shut Up and Keep Up
